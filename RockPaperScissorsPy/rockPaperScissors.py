@@ -15,7 +15,7 @@ while player == False:
     player = input(" Choose between Rock, Paper, Scissors:")
 
     if player == computer:
-        print("Tie!")
+        print("Its tie!")
 
     elif player == "Rock":
         if computer == "Paper":
@@ -25,7 +25,7 @@ while player == False:
 
     elif player == "Paper":
         if computer == "Scissors":
-            print("You lose!", computer, "cut", player)
+            print("You lose!", computer, "cuts", player)
         else:
             print("You win!", player, "covers", computer)
 
@@ -33,11 +33,12 @@ while player == False:
         if computer == "Rock":
             print("You lose...", computer, "smashes", player)
         else:
-            print("You win!", player, "cut", computer)
+            print("You win!", player, "cuts", computer)
 
     else:
         print("That's not a valid play. Check your spelling!")
 
-    #player was set to True, but we want it to be False so the loop continues
+
+#player was set to True, but we want it to be False so the loop continues
     player = False
     computer = choices[randint(0, 2)]
