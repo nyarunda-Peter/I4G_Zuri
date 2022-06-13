@@ -1,0 +1,32 @@
+[33mcommit cc97344a069ae0a2d1050ec4b710807f875c7890[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Nyarunda Peter <mosepete+1@gmail.com>
+Date:   Mon Jun 13 20:24:51 2022 +0300
+
+    Rock Paper Scissors Update
+
+[33mcommit 4f0ec85980173159bfc1cc3766e22eaf2e925311[m
+Author: Nyarunda Peter <mosepete+1@gmail.com>
+Date:   Mon Jun 13 20:05:05 2022 +0300
+
+    RockPaperScissor Dir Update
+
+[33mcommit 5a12ec0b6ad65c260871c081f847ebeeebb08023[m
+Merge: aa866ac 60fcc0d
+Author: Nyarunda Peter Moses <78729609+nyarunda-Peter@users.noreply.github.com>
+Date:   Sun Jun 5 15:33:22 2022 +0300
+
+    Merge pull request #1 from nyarunda-Peter/master
+    
+    Django setup test
+
+[33mcommit 60fcc0da5cd5fcb5546700b0ca54fd2267f63616[m
+Author: Nyarunda Peter <mosepete+1@gmail.com>
+Date:   Sun Jun 5 15:30:10 2022 +0300
+
+    Django setup test
+
+[33mcommit aa866acc949642797bf830c6bfae7609b820de07[m
+Author: Nyarunda Peter Moses <78729609+nyarunda-Peter@users.noreply.github.com>
+Date:   Sun Jun 5 15:26:45 2022 +0300
+
+    Initial commit
