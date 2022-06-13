@@ -1,2 +1,3 @@
 # I4G_Zuri
-Backend python - Django by Zuri I4G
+Backend python - Django project for && by Zuri I4G
+Python Scripts
